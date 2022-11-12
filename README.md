@@ -1,2 +1,9 @@
 # aws-lightsail
-AWS Lightsail 
+
+ Download python script onto the Ubuntu instance via Git.
+ 
+    git clone https://github.com/ddbs/aws-lightsail.git
+    
+Install script 
+
+    bash install_python.sh
